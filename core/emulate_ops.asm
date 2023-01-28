@@ -33,7 +33,8 @@
 %ifidn __OUTPUT_FORMAT__, elf32
     %define __BITS__ 32
     %define __CONV__ x32_cdecl
-%elifidn __OUTPUT_FORMAT__, win32
+%elifidn __OUTPUT_FORMAT__, w
+in32
     %define __BITS__ 32
     %define __CONV__ x32_cdecl
 %elifidn __OUTPUT_FORMAT__, macho32

@@ -40,13 +40,13 @@ The output will be as below if successful.
 
 Install the following components:
 
-Header Files       | |
------------------- | -------------------------------------------
-Explode.nsh        | <https://nsis.sourceforge.io/Explode>
-StrStr.nsh         | <https://nsis.sourceforge.io/StrStr>
-**Plug-ins**       |
-[ExecDos][execdos] | <https://nsis.sourceforge.io/ExecDos_plug-in>
-[LogEx][logex]     | <https://nsis.sourceforge.io/LogEx_plug-in>
+| Header Files       |                                               |
+|--------------------|-----------------------------------------------|
+| Explode.nsh        | <https://nsis.sourceforge.io/Explode>         |
+| StrStr.nsh         | <https://nsis.sourceforge.io/StrStr>          |
+| **Plug-ins**       |                                               |
+| [ExecDos][execdos] | <https://nsis.sourceforge.io/ExecDos_plug-in> |
+| [LogEx][logex]     | <https://nsis.sourceforge.io/LogEx_plug-in>   |
 
 **Header Files**
 
